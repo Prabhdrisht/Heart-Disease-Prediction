@@ -1,1 +1,1 @@
-
+Developed a predictive model for estimating insurance costs based on historical data. Implemented a regression model using Python and scikit-learn. Used features such as age, gender, and medical history to make accurate predictions.  Achieved a 84% accuracy rate in cost estimation.
